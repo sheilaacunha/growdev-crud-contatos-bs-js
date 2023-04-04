@@ -145,10 +145,7 @@ function addContact(contact) {
     const card = document.createElement('div')
     card.classList.add('card', 'text-light')
 
-    const divBtn = document.createElement('div')
-    divBtn.setAttribute('class', 'd-flex align-content-end  align-items-center')
-
-    const cardData = document.createElement('span')
+    const cardData = document.createElement('small')
 
     cardData.classList.add('class', 'text-secondary')
     cardData.innerHTML = `  Criado: ${dataAtual()} `
@@ -200,11 +197,10 @@ function addContact(contact) {
     cardBody.appendChild(cardTextPhone)
     cardBody.appendChild(cardTextEmail)
     cardBody.appendChild(cardTextLinkedin)
-    cardBody.appendChild(divBtn)
 
-    divBtn.appendChild(buttonEdit)
-    divBtn.appendChild(buttonDelete)
-    divBtn.appendChild(cardData)
+    cardBody.appendChild(buttonEdit)
+    cardBody.appendChild(buttonDelete)
+    cardBody.appendChild(cardData)
 
 
     card.appendChild(cardBody)
