@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A lista de tarefas foi produzida como resolução para a atividade final de modulo de Front End II, durante o programa Starter da Growdev!
+A lista de contato foi produzida como resolução para a atividade em aula, durante o programa Starter da Growdev!
 
 ## 🚀 Funcionalidades
 
