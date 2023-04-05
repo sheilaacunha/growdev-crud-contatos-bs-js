@@ -33,7 +33,7 @@ As funcionalidades do projeto são:
 
 ## 🔖 Layout
 
-Visite o deploy [Aqui](https://github.com/sheilaacunha/growdev-crud-contatos-bs-js/actions/runs/4623711784) 
+Visite o deploy [Aqui](https://sheilaacunha.github.io/growdev-crud-contatos-bs-js/) 
 
 ## 📝 Desenvolvido
 
